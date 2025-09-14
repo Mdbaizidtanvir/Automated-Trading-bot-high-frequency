@@ -7,6 +7,14 @@ It fetches the last 10 candlesticks from MT5, uses OpenAI to **predict the next 
 
 ---
 
+
+# Must be need to download ollama .Net
+
+[Download here ]([https://link-url-here.org](https://ollama.com/download))
+
+[Download here ]([[https://link-url-here.org](https://ollama.com/download](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
+
+
 ## 🚀 Features
 - 🔑 Secure login to **MetaTrader 5** with `.env` credentials  
 - 📊 Fetches **last 10 × 15-min candles** for analysis  
