@@ -1,4 +1,4 @@
-# 📈 MT5 AI Trading Bot (embedding+ OpenAI + MetaTrader 5 )
+# 📈  AI Trading Bot (embedding + OpenAI + MetaTrader 5 )
 
 # (embedding + OpenAI + MetaTrader 5 + binary )
 
@@ -102,7 +102,7 @@ python pok.py
 
 python qot.py 
 
- ``
+ ```
 
 
 
