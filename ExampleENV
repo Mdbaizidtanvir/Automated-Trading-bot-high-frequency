@@ -1,0 +1,21 @@
+# ==========================
+# 🔑 OpenAI Configuration
+# ==========================
+OPENAI_API_KEY=sk-proj-cw_8A
+
+# ==========================
+# 📈 MetaTrader 5 (MT5) Account Details
+# ==========================
+MT5_ACCOUNT=5040133015
+MT5_PASSWORD=U-TnE0Ai
+MT5_SERVER=MetaQuotes-Demo
+
+# ==========================
+# ⚙️ Trading Parameters
+# ==========================
+LOT_SIZE=0.01
+DEVIATION=20
+TP_PIPS=20
+SL_PIPS=100
+SYMBOL=EURUSD
+
