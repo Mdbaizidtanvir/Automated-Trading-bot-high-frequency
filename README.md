@@ -7,12 +7,13 @@ It fetches the last 10 candlesticks from MT5, uses OpenAI to **predict the next 
 
 ---
 
+## 📥 Prerequisites
 
-# Must be need to download ollama .Net
+### 🔹 Must Install Ollama + .NET
+- [Download Ollama](https://ollama.com/download)  
+- [Download .NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)  
 
-[Download here ]([https://link-url-here.org](https://ollama.com/download))
-
-[Download here ]([[https://link-url-here.org](https://ollama.com/download](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
+---
 
 
 ## 🚀 Features
